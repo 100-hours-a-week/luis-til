@@ -1,9 +1,23 @@
-# til-template
+### 11월 1주차
 
-## 오늘 내가 배운 것들(Today I Learned)
+2024-11-04: [JS 작동 원리](https://childlike-theater-94e.notion.site/JS-135f155b80cb81598dc1d9132bb6166a)  
+2024-11-05: [콘텐츠 보안 정책](https://lunar-voice-042.notion.site/CSP-136621327bd6807dbde6dc723c3efff9)  
+2024-11-06: [쿠키/세션](https://lunar-voice-042.notion.site/136621327bd68065924bf6e7327fdd3e?pvs=74)  
+2024-11-07: [HTTP Cache & ETag](https://lunar-voice-042.notion.site/HTTP-Cache-138621327bd680dd9fd0e033503a1fe2?pvs=4)  
+2024-11-08: [CORS]()
 
-### [11월 첫째주, 1주차] : html, css
-24.04.05 세부 주제 4 작성 (상세 내역 링크)
-24.04.04 세부 주제 3 작성 (상세 내역 링크)
-24.04.03 세부 주제 2 작성 (상세 내역 링크)
-24.04.02 세부 주제 1 작성 (상세 내역 링크)
+### 11월 2주차
+
+2024-11-11: [Server Sent Event]()  
+2024-11-12: [Long Polling]()  
+2024-11-13: [WebSocket]()  
+2024-11-14: [XSS]()  
+2024-11-15: [CSRF]()
+
+### 11월 3주차
+
+2024-11-18: []()  
+2024-11-19: []()  
+2024-11-20: []()  
+2024-11-21: []()  
+2024-11-22: []()
