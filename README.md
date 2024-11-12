@@ -5,19 +5,3 @@
 2024-11-06: [쿠키/세션](https://lunar-voice-042.notion.site/136621327bd68065924bf6e7327fdd3e?pvs=74)  
 2024-11-07: [HTTP Cache & ETag](https://lunar-voice-042.notion.site/HTTP-Cache-138621327bd680dd9fd0e033503a1fe2?pvs=4)  
 2024-11-08: [CORS](https://lunar-voice-042.notion.site/SOP-CORS-138621327bd680ffa09deb16cd7ea9c6)
-
-### 11월 2주차
-
-2024-11-11: [Server Sent Event]()  
-2024-11-12: [Long Polling]()  
-2024-11-13: [WebSocket]()  
-2024-11-14: [XSS]()  
-2024-11-15: [CSRF]()
-
-### 11월 3주차
-
-2024-11-18: []()  
-2024-11-19: []()  
-2024-11-20: []()  
-2024-11-21: []()  
-2024-11-22: []()
